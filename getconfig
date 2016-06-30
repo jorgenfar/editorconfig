@@ -1,0 +1,3 @@
+#!bin/sh
+
+curl -O https://github.com/jorgenfar/editorconfig/blob/master/.editorconfig

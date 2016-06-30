@@ -1,2 +1,2 @@
-# editorconfig
-My preferred editorconfig
+# Editorconfig
+My preferred editorconfig.
